@@ -2,14 +2,16 @@
 
 ### New Quests System
 
-  Quest Dialogue System
-  Add NPC(s) to visit as a quest requirement
-  Add place(s) to go to as a quest requirement
-  Weather conditions to spawn a quest
-  Multi-chain tasks into one quests
-  Ability to autocomplete quests
-  Multiple enemies support
-  No script modifications required
+Quest Dialogue System
+
+Add NPC(s) to visit as a quest requirement
+
+Add place(s) to go to as a quest requirement
+Weather conditions to spawn a quest
+Multi-chain tasks into one quests
+Ability to autocomplete quests
+Multiple enemies support
+No script modifications required
 ### Seasonal Sun Controller
 
 Customizable Day/Night cycle
