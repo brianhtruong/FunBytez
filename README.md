@@ -2,9 +2,9 @@
 
 ### New Quests System
 
-Quest Dialogue System
+•Quest Dialogue System
 
-Add NPC(s) to visit as a quest requirement
+•Add NPC(s) to visit as a quest requirement
 
 Add place(s) to go to as a quest requirement
 Weather conditions to spawn a quest
