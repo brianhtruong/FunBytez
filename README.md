@@ -20,17 +20,6 @@ https://www.youtube.com/channel/UCOSTBoOaHl8HU1H2a86GANA/videos?view_as=subscrib
 • Multiple enemies support
 
 • No script modifications required
-### Seasonal Sun Controller
-
-• Customizable Day/Night cycle
-
-• Realistic day/night with lots of configuration optimizations and custimization
-
-• Customizable Weather (soon!)
-
-• Multiplayer compatible
-
-• No script modifications required
 ### Spawn Manager
 
 • Create customizable spawn regions
