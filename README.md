@@ -1,6 +1,6 @@
 # FunBytez
 
-New Quests System
+## New Quests System
 
 Quest Dialogue System
 Add NPC(s) to visit as a quest requirement
