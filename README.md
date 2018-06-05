@@ -22,130 +22,130 @@ https://www.youtube.com/channel/UCOSTBoOaHl8HU1H2a86GANA/videos?view_as=subscrib
 • No script modifications required
 ### Seasonal Sun Controller
 
-Customizable Day/Night cycle
+• Customizable Day/Night cycle
 
-Realistic day/night with lots of configuration optimizations and custimization
+• Realistic day/night with lots of configuration optimizations and custimization
 
-Customizable Weather (soon!)
+• Customizable Weather (soon!)
 
-Multiplayer compatible
+• Multiplayer compatible
 
-No script modifications required
+• No script modifications required
 ### Spawn Manager
 
-Create customizable spawn regions
+• Create customizable spawn regions
 
-Set different types of enemies in a spawn region
+• Set different types of enemies in a spawn region
 
-Adjust rarity for each type of monster(s) in a spawn region
+• Adjust rarity for each type of monster(s) in a spawn region
 
-Adjust spawn region’s radius
+• Adjust spawn region’s radius
 
-Spawn collision handling
+• Spawn collision handling
 
-Spawn conditions
+• Spawn conditions
 
-No script modifications required
+• No script modifications required
 ### Direction Pointer System
 
-Quest Directional Arrow that points to goal(s) or target(s) by order of distance nearest to player.
+• Quest Directional Arrow that points to goal(s) or target(s) by order of distance nearest to player.
 
-No script modifications required
+• No script modifications required
 ### Traveler System
 
-Traveling/teleporting system
+• Traveling/teleporting system
 
-Teleport menu
+• Teleport menu
 
-Set destination/spawn points
+• Set destination/spawn points
 
-Set costs to teleport
+• Set costs to teleport
 
-No script modifications required
+• No script modifications required
 
 ### Character Creation/Selection System
 
-Customize your character in character creation!
+• Customize your character in character creation!
 
-Customize your character’s hair, outfit, torse, legs, hands, or anything else you need
+• Customize your character’s hair, outfit, torse, legs, hands, or anything else you need
 
-Choose your race/model and class
+• Choose your race/model and class
 
-Adjust according to different body models types within your race/model
+• Adjust according to different body models types within your race/model
 
-New selection screen that aesthetically lerps your characters!
+• New selection screen that aesthetically lerps your characters!
 ### Sound Manager
 
-Customize footsteps sound
+• Customize footsteps sound
 
-Customize casting/combat sound
+• Customize casting/combat sound
 
-Customize trading sound
+• Customize trading sound
 
-Customize death sound
+• Customize death sound
 
-Customize background music
+• Customize background music
 
-Customize introduction music
+• Customize introduction music
 
-Customize day/night sound
+• Customize day/night sound
 
-Adjust player sounds based on different classes
+• Adjust player sounds based on different classes
 ###  Professions
 
-NPCs now offer Professions! Customize any professions you so wish! You can make any professions like miner, botanist, fisher, hunter, and more!
+• NPCs now offer Professions! Customize any professions you so wish! You can make any professions like miner, botanist, fisher, hunter, and more!
 
-Professions Level system
+• Professions Level system
 
-Customizable collectibles!
+• Customizable collectibles!
 
-Adjust the harvest length, collectible by, minimum level, reward experience, collectable item, amount, spawning, respawn, and growing length!
+• Adjust the harvest length, collectible by, minimum level, reward experience, collectable item, amount, spawning, respawn, and growing length!
 ### Pets
 
-Customize your pet animation, name, design and more!
+• Customize your pet animation, name, design and more!
 
-Customize how they can be obtained (e.g. shop, loot, default class item, etc)!
+• Customize how they can be obtained (e.g. shop, loot, default class item, etc)!
 
-Pets fight alongside their owner
+• Pets fight alongside their owner
 
-Simple AI system
+• Simple AI system
 
-Pets unsummon upon command or player’s death
+• Pets unsummon upon command or player’s death
 
-Compatible with the Mount addon
+• Compatible with the Mount addon
 
-1 pet active per client
+• 1 pet active per client
 
-Tested in dedicated server.
+• Tested in dedicated server.
 ### Mounts
 
-Mounts boost your player’s speed, helping him/her travel quicker
+• Mounts boost your player’s speed, helping him/her travel quicker
 
-Mounts unsummon upon command or while in combat
+• Mounts unsummon upon command or while in combat
 
-Customize your mount’s speed, player and mount animations for summoning and ride, name, design and more!
+• Customize your mount’s speed, player and mount animations for summoning and ride, name, design and more!
 
-Customize how they can be obtained (e.g. shop, loot, default class item, etc)
+• Customize how they can be obtained (e.g. shop, loot, default class item, etc)
 
-Compatible with the Pet addon
+• Compatible with the Pet addon
 
-1 mount active per client
+• 1 mount active per client
 
-Tested in dedicated server.
+• Tested in dedicated server.
 ### Mercenary
 
-Players can now hire a npc for gold to fight with them!
+• Players can now hire a npc for gold to fight with them!
 
-UI time tracker for Mercenary
+• UI time tracker for Mercenary
 
-They will follow you for a certain time
+• They will follow you for a certain time
 
-Attack who the player attacks
+• Attack who the player attacks
 
-When the time is finished, return to their spawn position
+• When the time is finished, return to their spawn position
 
-Brings more a lot more interaction into your game!
+• Brings more a lot more interaction into your game!
 
 ### Simple Weather
 
-Simple, yet realistic weather. Adjustable frequency, time, transition length, rain, switch states, and rain chance.
+• Simple, yet realistic weather. Adjustable frequency, time, transition length, rain, switch states, and rain chance.
