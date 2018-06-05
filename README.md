@@ -1,5 +1,8 @@
 # FunBytez
 
+## Videos and Tutorials
+https://www.youtube.com/channel/UCOSTBoOaHl8HU1H2a86GANA/videos?view_as=subscriber
+
 ### New Quests System
 
 • Quest Dialogue System
