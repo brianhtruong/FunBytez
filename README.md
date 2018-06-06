@@ -1,5 +1,5 @@
 # FunBytez
-
+#### NOTE: These are Unity assets to develop an MMORPG. Credit MUST be given to FunBytez Studio if used for commercial purposes.
 ## Videos and Tutorials
 https://www.youtube.com/channel/UCOSTBoOaHl8HU1H2a86GANA/videos?view_as=subscriber
 
